@@ -1,6 +1,9 @@
-.Titulo:hover
+.titulo:hover
 {
-    color:brown; 
+    color:brown;
+    font-weight: normal;
+    font-size:  5em;
+    font-family: 'Playball', cursive;
 }
 h2 b
 {
@@ -10,7 +13,8 @@ h2 b
 {
     color:aquamarine; 
 }
-.main__h2
+
+.navegacion
 {
-    font-size: 4em;
+    line-height: 4;
 }
