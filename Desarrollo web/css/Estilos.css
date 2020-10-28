@@ -1,9 +1,6 @@
 .titulo:hover
 {
     color:brown;
-    font-weight: normal;
-    font-size:  5em;
-    font-family: 'Playball', cursive;
 }
 h2 b
 {
@@ -13,8 +10,12 @@ h2 b
 {
     color:aquamarine; 
 }
-
 .navegacion
 {
     line-height: 4;
+}
+.contactos_h2
+{
+    display: inline-block;
+    background-color: red;
 }
