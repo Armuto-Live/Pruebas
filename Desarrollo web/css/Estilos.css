@@ -20,11 +20,10 @@ h2 b
 .contactos_h2
 {
     display: inline-block;
-    background-color: red;
+    background-color: darkcyan;
     padding: 100px;
-    box-sizing: border-box;
     margin: 20px;
-    border-radius: 2em;
-    border: 4px solid aqua;
+    border-radius: 1em;
     font-size: 2em;
+    box-shadow: 4px 4px 1px 0 #000;
 }
