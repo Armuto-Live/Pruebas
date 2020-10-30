@@ -26,4 +26,5 @@ h2 b
     border-radius: 1em;
     font-size: 2em;
     box-shadow: 4px 4px 1px 0 #000;
+    text-shadow: 2px 2px 1px red;
 }
